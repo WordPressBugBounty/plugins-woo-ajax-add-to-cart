@@ -2,14 +2,14 @@
 # This file is distributed under the GPLv3.
 msgid ""
 msgstr ""
-"Project-Id-Version: Ajax add to cart for WooCommerce 2.4.7\n"
+"Project-Id-Version: Ajax add to cart for WooCommerce 2.4.9\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woo-ajax-add-to-cart\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2025-04-21T14:06:09+00:00\n"
+"POT-Creation-Date: 2025-05-05T13:23:08+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.11.0\n"
 "X-Domain: woo-ajax-add-to-cart\n"
@@ -66,4 +66,20 @@ msgstr ""
 #: vendor_packages/wp-notice-plugin-promote.php:85
 #: vendor_packages/wp-notice-plugin-promote.php:99
 msgid "Hello! We want to invite you to try our %s plugin!"
+msgstr ""
+
+#: vendor_packages/wp-plugin-table-links.php:10
+msgid "Settings"
+msgstr ""
+
+#: vendor_packages/wp-plugin-table-links.php:15
+msgid "Premium"
+msgstr ""
+
+#: vendor_packages/wp-plugin-table-links.php:22
+msgid "Support"
+msgstr ""
+
+#: vendor_packages/wp-plugin-table-links.php:27
+msgid "Documentation"
 msgstr ""
