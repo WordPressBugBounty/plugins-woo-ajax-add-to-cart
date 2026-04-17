@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'quadlayers/woo-ajax-add-to-cart',
-        'pretty_version' => 'v2.6.2',
-        'version' => '2.6.2.0',
-        'reference' => '517440aa0925bdae9d938c89595ea149f4875529',
+        'pretty_version' => 'v2.6.3',
+        'version' => '2.6.3.0',
+        'reference' => '18954bf079f9dd7b1d1366d65910a8e803f82436',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -56,9 +56,9 @@
             'dev_requirement' => false,
         ),
         'quadlayers/woo-ajax-add-to-cart' => array(
-            'pretty_version' => 'v2.6.2',
-            'version' => '2.6.2.0',
-            'reference' => '517440aa0925bdae9d938c89595ea149f4875529',
+            'pretty_version' => 'v2.6.3',
+            'version' => '2.6.3.0',
+            'reference' => '18954bf079f9dd7b1d1366d65910a8e803f82436',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
